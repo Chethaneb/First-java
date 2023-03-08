@@ -1,2 +1,2 @@
-#!/bin/sh -xe
+#!/bin/bash -ex
 echo "Hello World"
